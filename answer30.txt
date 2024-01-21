@@ -1,0 +1,31 @@
+,array,count
+0,['main'],6054
+1,"['main', 'archive']",931
+2,"['main', 'rabota']",899
+3,"['main', 'internet']",767
+4,"['main', 'bonus']",719
+5,"['main', 'news']",658
+6,"['main', 'tariffs']",572
+7,"['main', 'online']",485
+8,"['main', 'vklad']",432
+9,"['main', 'archive', 'rabota']",187
+10,"['main', 'rabota', 'archive']",181
+11,"['main', 'bonus', 'rabota']",157
+12,"['main', 'internet', 'rabota']",156
+13,"['main', 'news', 'rabota']",152
+14,"['main', 'internet', 'archive']",151
+15,"['main', 'rabota', 'bonus']",149
+16,"['main', 'bonus', 'archive']",149
+17,"['main', 'archive', 'internet']",145
+18,"['main', 'archive', 'bonus']",144
+19,"['main', 'archive', 'news']",143
+20,"['main', 'rabota', 'news']",141
+21,"['main', 'rabota', 'internet']",140
+22,"['main', 'archive', 'online']",122
+23,"['main', 'news', 'archive']",122
+24,"['main', 'internet', 'bonus']",122
+25,"['main', 'internet', 'news']",120
+26,"['main', 'archive', 'tariffs']",113
+27,"['main', 'news', 'bonus']",107
+28,"['main', 'rabota', 'online']",104
+29,"['main', 'tariffs', 'rabota']",102
